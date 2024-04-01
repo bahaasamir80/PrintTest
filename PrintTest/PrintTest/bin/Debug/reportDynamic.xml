@@ -1,0 +1,60 @@
+﻿<daReport papersize="A4" layout="Portrait">
+<margins left="50" top="50" right="50" bottom="50"></margins>
+<parameters>
+   <parameter name="parameter1" />
+</parameters>
+<content>
+<staticContent>
+ 
+<textField x="234" y="61" width="428" height="38" horAlignment="None" verAlignment="None" Selectable="True">
+<text horAlignment="Center" verAlignment="Top">Table</text>
+<font family="Tahoma" size="18"  style="Bold"></font>
+<foregroundColor color="Black"></foregroundColor>
+<backgroundColor color="Transparent"></backgroundColor>
+<border width="0" color="Black"></border>
+</textField>
+ 
+<textField x="285" y="97" width="333" height="34" horAlignment="None" verAlignment="None" Selectable="True">
+<text horAlignment="Center" verAlignment="Top">of several integer squares and cubes</text>
+<font family="Tahoma" size="11" ></font>
+<foregroundColor color="Black"></foregroundColor>
+<backgroundColor color="Transparent"></backgroundColor>
+<border width="0" color="Black"></border>
+</textField>
+ 
+<textField x="204" y="136" width="468" height="1" horAlignment="None" verAlignment="None" Selectable="True">
+<text horAlignment="Left" verAlignment="Top"></text>
+<font family="Tahoma" size="10" ></font>
+<foregroundColor color="Black"></foregroundColor>
+<backgroundColor color="Black"></backgroundColor>
+<border width="0" color="White"></border>
+</textField>
+</staticContent>
+ 
+<dynamicContent>
+ 
+<textField x="272" y="1085" width="307" height="25" horAlignment="None" verAlignment="None" Selectable="True">
+<text horAlignment="Center" verAlignment="Top">Page : $P{pageNumber} of $P{totalPages}</text>
+<font family="Tahoma" size="10"  style="Bold"></font>
+<foregroundColor color="Brown"></foregroundColor>
+<backgroundColor color="Transparent"></backgroundColor>
+<border width="0" color="Black"></border>
+</textField>
+ 
+<table x="64" y="149" width="699" height="920" borderColor="Black" drawEmptyRows="false" cellHeight="20" dataSource="printTable"  horAlignment="Center" verAlignment="None" Selectable="True" GroupByField="">
+<header headerColor="NavajoWhite" headerFontColor="Black">
+<font family="Tahoma" size="8"  style="Bold"></font>
+</header>
+<dataRows dataFontColor="Black">
+<font family="Tahoma" size="8" ></font>
+</dataRows>
+<columns>
+<column name="number"  label="Number" FormatMask="" width="150" align="Left" Visible="True"/>
+<column name="square"  label="Square" FormatMask="" width="150" align="Center" Visible="True"/>
+<column name="cube"  label="Cube" FormatMask="" width="399" align="Right" Visible="True"/>
+</columns>
+</table>
+</dynamicContent>
+ 
+</content>
+</daReport>

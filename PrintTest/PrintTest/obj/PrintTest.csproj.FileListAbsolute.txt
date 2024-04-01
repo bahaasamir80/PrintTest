@@ -1,0 +1,14 @@
+C:\Documents and Settings\Master1\Desktop\PrintTest\PrintTest\bin\Debug\PrintTest.exe
+C:\Documents and Settings\Master1\Desktop\PrintTest\PrintTest\bin\Debug\PrintTest.pdb
+C:\Documents and Settings\Master1\Desktop\PrintTest\PrintTest\bin\Debug\daReport.dll
+C:\Documents and Settings\Master1\Desktop\PrintTest\PrintTest\bin\Debug\daReport.pdb
+C:\Documents and Settings\Master1\Desktop\PrintTest\PrintTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Master1\Desktop\PrintTest\PrintTest\obj\Debug\PrintTest.frmMain.resources
+C:\Documents and Settings\Master1\Desktop\PrintTest\PrintTest\obj\Debug\PrintTest.frmPaintOnControl.resources
+C:\Documents and Settings\Master1\Desktop\PrintTest\PrintTest\obj\Debug\PrintTest.frmPreview.resources
+C:\Documents and Settings\Master1\Desktop\PrintTest\PrintTest\obj\Debug\PrintTest.Properties.Resources.resources
+C:\Documents and Settings\Master1\Desktop\PrintTest\PrintTest\obj\Debug\PrintTest.csproj.GenerateResource.Cache
+C:\Documents and Settings\Master1\Desktop\PrintTest\PrintTest\obj\Debug\PrintTest.exe
+C:\Documents and Settings\Master1\Desktop\PrintTest\PrintTest\obj\Debug\PrintTest.pdb
+F:\EX\PrintTest\PrintTest\obj\Debug\PrintTest.exe
+F:\EX\PrintTest\PrintTest\obj\Debug\PrintTest.pdb
